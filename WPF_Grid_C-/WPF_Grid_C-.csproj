@@ -3,7 +3,7 @@
   <PropertyGroup>
     <OutputType>WinExe</OutputType>
     <TargetFramework>netcoreapp3.1</TargetFramework>
-    <RootNamespace>WPF_Gri_C_</RootNamespace>
+    <RootNamespace>WPF_Grid_C_</RootNamespace>
     <UseWPF>true</UseWPF>
   </PropertyGroup>
 

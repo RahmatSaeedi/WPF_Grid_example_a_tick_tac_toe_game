@@ -6,7 +6,7 @@ using System.Linq;
 using System.Threading.Tasks;
 using System.Windows;
 
-namespace WPF_Gri_C_
+namespace WPF_Grid_C_
 {
     /// <summary>
     /// Interaction logic for App.xaml

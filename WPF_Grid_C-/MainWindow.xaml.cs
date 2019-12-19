@@ -13,7 +13,7 @@ using System.Windows.Media.Imaging;
 using System.Windows.Navigation;
 using System.Windows.Shapes;
 
-namespace WPF_Gri_C_
+namespace WPF_Grid_C_
 {
     /// <summary>
     /// Interaction logic for MainWindow.xaml
