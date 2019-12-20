@@ -82,5 +82,10 @@ namespace WPF_Grid_C_
             }
 
         }
+
+        private void Exit(object sender, RoutedEventArgs e)
+        {
+            Application.Current.Shutdown();
+        }
     }
 }
